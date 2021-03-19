@@ -1,0 +1,3 @@
+- :wave: Hi, I’m Justin.
+- :school: I'm a student at UNC-Chapel Hill studying Statistics and Business Administration.
+- :email: Reach me at jsmauzy1@gmail.com, jsmauzy@live.unc.edu, or justin_mauzy@kenan-flagler.unc.edu.
