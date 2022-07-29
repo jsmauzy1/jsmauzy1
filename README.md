@@ -1,3 +1,3 @@
 - :wave: Hi, I’m Justin.
-- :school: I'm a student at UNC-Chapel Hill studying Statistics and Business Administration.
-- :email: Reach me at jsmauzy1@gmail.com, jsmauzy@live.unc.edu, or justin_mauzy@kenan-flagler.unc.edu.
+- :school: I'm an alumni of UNC-Chapel Hill with a degree Business Administration, with a dual major in Statistics & Analytics and a minor in Data Science.
+- :email: Reach me at jsmauzy1@gmail.com or jsmauzy@alumni.unc.edu.
