@@ -1,3 +1,3 @@
 - :wave: Hi, I’m Justin.
-- :school: I'm a gradute of UNC-Chapel Hill, where I studied Business Administration, Statistics & Analytics, and Data Science.
+- :school: I'm a graduate of UNC-Chapel Hill, where I studied Business Administration, Statistics & Analytics, and Data Science.
 - :email: Reach me at jsmauzy1@gmail.com or jsmauzy@alumni.unc.edu.
