@@ -1,3 +1,3 @@
 - :wave: Hi, I’m Justin.
-- :school: I'm an alumni of UNC-Chapel Hill with a degree Business Administration, with a dual major in Statistics & Analytics and a minor in Data Science.
+- :school: I'm an alumni of UNC-Chapel Hill, where I studied Business Administration, Statistics & Analytics, and Data Science.
 - :email: Reach me at jsmauzy1@gmail.com or jsmauzy@alumni.unc.edu.
